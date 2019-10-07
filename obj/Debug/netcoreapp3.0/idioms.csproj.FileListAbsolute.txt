@@ -1,0 +1,11 @@
+/Users/harooniqbal/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.0/idioms
+/Users/harooniqbal/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.0/idioms.deps.json
+/Users/harooniqbal/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.0/idioms.runtimeconfig.json
+/Users/harooniqbal/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.0/idioms.runtimeconfig.dev.json
+/Users/harooniqbal/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.0/idioms.dll
+/Users/harooniqbal/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp3.0/idioms.pdb
+/Users/harooniqbal/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.0/idioms.csprojAssemblyReference.cache
+/Users/harooniqbal/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.0/idioms.AssemblyInfoInputs.cache
+/Users/harooniqbal/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.0/idioms.AssemblyInfo.cs
+/Users/harooniqbal/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.0/idioms.dll
+/Users/harooniqbal/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp3.0/idioms.pdb
